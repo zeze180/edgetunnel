@@ -1,4 +1,5 @@
-name = "one"
+name = # wrangler.toml
+name = 'delicate-dream-ea65'
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
